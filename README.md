@@ -20,6 +20,7 @@
 
 ### 前提条件
 1. 安装浏览器扩展：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)
+   - 如果你是首次使用油猴脚本，可以参考[油猴入门教程](https://www.bilibili.com/opus/909001790657134596?plat_id=5&share_from=article&share_medium=android&share_plat=android&share_session_id=4486af8d-387c-4113-8f52-ffe715dfd36c&share_source=WEIXIN&share_tag=s_i&spmid=dt.opus-detail.0.0&timestamp=1767767978&unique_k=fkxcoBk)来学习如何安装和使用。
 2. 访问PTA平台（https://pintia.cn）
 
 ### 安装脚本
